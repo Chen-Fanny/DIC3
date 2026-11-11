@@ -5,6 +5,7 @@
 > **指導架構**：整合 Fission-AI OpenSpec (Spec-Driven Development, SDD) 與 A-Z SOP 標準學術論文架構規範
 
 ---
+![Uploading DietSense 專題亮點總覽.png…]()
 
 ## 目錄 (Table of Contents)
 - [DIC3: Food Guardian — Project Proposal Refactor using OpenSpec](#dic3-food-guardian--project-proposal-refactor-using-openspec)
